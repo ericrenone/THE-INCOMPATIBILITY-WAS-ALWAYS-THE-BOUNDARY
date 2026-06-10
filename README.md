@@ -26,23 +26,6 @@ The central thesis of this document: **the BROUWER model is a first-order linear
 
 ---
 
-## Table of Contents
-
-1. [The May–June 2026 Research Intake](#1-research-intake)
-2. [Identity B1 — Robertson Ratio = Linearized IRTR Coefficient](#2-identity-b1)
-3. [Identity B2 — Two-Stage Breakdown = IRTR Ellipse Topology Change](#3-identity-b2)
-4. [Identity B3 — Boost Exile = Maximum-Regret Theorem (Not Observation)](#4-identity-b3)
-5. [Identity B4 — SQL→HL Transition = Brouwer→Kakutani Hierarchy Crossing](#5-identity-b4)
-6. [Identity B5 — Quotient Manifold = BROUWER Face Equilibrium](#6-identity-b5)
-7. [Identity B6 — φ-Equilibrium Rate is the SQL/HL Critical Exponent](#7-identity-b6)
-8. [The Phase Diagram of the Allocation Problem](#8-phase-diagram)
-9. [Novel Predictions](#9-novel-predictions)
-10. [Correction to the Correction](#10-correction-to-the-correction)
-11. [Master Cross-Reference Table](#11-master-cross-reference-table)
-12. [References](#12-references)
-
----
-
 ## 1. The May–June 2026 Research Intake
 
 ### 1.1 Wang et al.: Minimal Trade-off and Optimal Measurement for Multiparameter Quantum Estimation
